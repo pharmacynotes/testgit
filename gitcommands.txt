@@ -1,0 +1,10 @@
+git init
+git add .
+git status
+git commit -m "first commit"
+
+git remote add <any name for url> <https url of repo>
+git push --set-upstream origin main
+git push -f <any name for url> main
+
+
